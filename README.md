@@ -23,3 +23,8 @@ Now, enter `code .` to open this project in VS Code, and look for a prompt to 'i
 Update this README and make any other initial changes or 🌱 files, etc. Go ahead and do your usual `git` steps, etc. etc. etc.
 
 **Note:** This is a template repository, no need to 'fork it.
+# this is a header
+## this is a even a smaller file
+Hello
+Fav movies
+# fav movies
